@@ -32,7 +32,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("presentacion")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://miportfoliorf.firebaseapp.com/")
 public class CPresentacion {
   @Autowired
     SPresentacion sPresentacion;
