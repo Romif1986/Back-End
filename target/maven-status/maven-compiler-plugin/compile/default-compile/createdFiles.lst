@@ -16,6 +16,7 @@ com\argProg\tp\security\controller\Mensaje.class
 com\argProg\tp\security\service\UsuarioService.class
 com\argProg\tp\security\entity\Usuario.class
 com\argProg\tp\entity\Educacion.class
+com\argProg\tp\CorsConfig.class
 com\argProg\tp\security\repository\iUsuarioRepository.class
 com\argProg\tp\controler\CPresentacion.class
 com\argProg\tp\security\jwt\JwtProvider.class
